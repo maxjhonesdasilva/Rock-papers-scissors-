@@ -16,6 +16,8 @@ export const GlobalStyles = createGlobalStyle`
   body{
     width: 100;
     heigh: 100vh;
-    justi}
+    display: flex;
+    justify- content: center;
+    background-color: #006400
 
 `
