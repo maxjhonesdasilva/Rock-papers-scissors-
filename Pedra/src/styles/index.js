@@ -18,6 +18,7 @@ export const GlobalStyles = createGlobalStyle`
     heigh: 100vh;
     display: flex;
     justify- content: center;
-    background-color: #006400
+    background-color: #1a1a1a;
+    
 }
 `
